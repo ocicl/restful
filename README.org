@@ -1,0 +1,10 @@
+* restful
+
+REST APIs made easy
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Ralt/restful.git   |
+| commit  | 725e93f  |
+| systems | restful |
+|---------+-------------------------------------------|
+
